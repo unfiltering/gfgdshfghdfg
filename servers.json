@@ -5,6 +5,11 @@
         {
           "name": "Localhost",
           "ip": "ws://localhost:443"
+        },
+      "1": [
+        {
+          "name": "Test Server",
+          "ip": "ws://192.168.0.8:443"
         }
       ]
     }
