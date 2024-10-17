@@ -4,7 +4,7 @@
       "1": [
         {
           "name": "Localhost",
-          "ip": "wss://localhost:443"
+          "ip": "ws://localhost:443"
         }
       ]
     }
