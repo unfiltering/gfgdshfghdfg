@@ -1,0 +1,12 @@
+{
+  "servers": [
+    {
+      "1": [
+        {
+          "name": "Localhost",
+          "ip": "wss://localhost:443"
+        }
+      ]
+    }
+  ]
+}
