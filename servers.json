@@ -5,8 +5,8 @@
         {
           "name": "Localhost",
           "ip": "ws://localhost:443"
-        },
-      ]
+        }
+      ],
       "2": [
         {
           "name": "Test Server",
